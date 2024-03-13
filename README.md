@@ -6,7 +6,7 @@
 - figma, optimized graphics, svg where it is possible
 - html,
 - scss,
-- gulp,
+- webpack,
 - js
 - flex boxes
 - BEM naming
