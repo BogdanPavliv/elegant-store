@@ -3,13 +3,13 @@
 - git,
 - gulp,
 - npm,
-- figma, optimized graphics, svg where it is possible
+- figma, optimized graphics, svg where it is possible,
 - html,
 - scss,
 - webpack,
-- javascript
-- flex boxes
-- grid
+- javascript,
+- flex boxes,
+- grid,
 - BEM naming
 
 Documentation and usage examples inside.
