@@ -7,8 +7,9 @@
 - html,
 - scss,
 - webpack,
-- js
+- javascript
 - flex boxes
+- grid
 - BEM naming
 
 Documentation and usage examples inside.
